@@ -10,5 +10,5 @@
 
 ## commit message
 ```
-    push by codespace
+push by codespace
 ```
