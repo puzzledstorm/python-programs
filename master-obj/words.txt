@@ -9,3 +9,14 @@ hierarchy 等级制度，分级系统
 mutate 转变，转换
 essence 本质，实质
 skeleton 骨骼，骨架；框架
+delve 探索，钻研
+Put another way 换句话说
+emphatically 显然地
+incorporate 并入，包含
+lofty 崇高的，高耸的
+pragmatically 讲究实际地
+sophisticated 复杂的
+formalize 使具体化
+numerous 很多的
+reStructuredText (RST)
+profound 极大的
