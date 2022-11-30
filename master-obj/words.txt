@@ -20,3 +20,10 @@ formalize 使具体化
 numerous 很多的
 reStructuredText (RST)
 profound 极大的
+characterize 刻画，成为...的特征
+implicit 含蓄的，固有的
+form 种类，类型
+defer 推迟
+polymorphism 多态
+convoluted 错综复杂的；晦涩难懂的
+Refactoring 重构；重整
