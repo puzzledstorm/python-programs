@@ -58,7 +58,7 @@ interchangeably 可替换地,通用地
 numeric 数字的
 preceding 前面的
 mute 缄默的
-clause 分局
+clause 分句
 vague 不清楚的
 faulty 有缺陷的
 debate 尚待讨论，有待商榷
