@@ -1,6 +1,7 @@
 dealer 发牌人
 subsequent 随后的，之后的
 deck 一副
+suit 一套同花色的牌
 Ace A牌
 entail 牵涉，伴随...产生
 elide 忽略
@@ -27,3 +28,30 @@ defer 推迟
 polymorphism 多态
 convoluted 错综复杂的；晦涩难懂的
 Refactoring 重构；重整
+variation 变化，变种，变体
+factor in/into 作为因素计入；把…包括在内
+error-prone 易出错的
+tedious 冗长的；啰嗦的
+exhaustively 详尽地；彻底地；没有遗漏地
+mechanism 方法
+tangible 实际的
+manifest 明显的；清楚的
+constants 常量；常数；恒量
+qualified 合格的，胜任的
+collisions 碰撞，冲突
+Spade 黑桃
+Club 梅花
+Heart 红心
+Diamond 方块
+justified 合理的
+mythical 神话的，幻想的，虚构的
+malicious 恶意的，恶毒的
+nuisance 麻烦事
+tweak 微调
+diagnostic 诊断的，诊断程序
+buggy 有漏洞的
+Leverage 影响力，力量，手段；获得预期的结果
+standalone 独立的
+encapsulate 概括
+extensible 可扩展的
+interchangeably 
