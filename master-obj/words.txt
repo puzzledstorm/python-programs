@@ -54,4 +54,17 @@ Leverage 影响力，力量，手段；获得预期的结果
 standalone 独立的
 encapsulate 概括
 extensible 可扩展的
-interchangeably 
+interchangeably 可替换地,通用地
+numeric 数字的
+preceding 前面的
+mute 缄默的
+clause 分局
+vague 不清楚的
+faulty 有缺陷的
+debate 尚待讨论，有待商榷
+unstated 未阐明的
+subtle 细微的，隐晦的
+exclusive 独有的，专用的
+deduce 推论，推断，演绎
+noob 新手，菜鸟
+simplicity 简单，简明
